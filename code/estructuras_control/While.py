@@ -41,7 +41,7 @@ while True:  # Creamos el ciclo infinito
     ############################################-2-##################################################
     if opcion == '1':  # Condicionales según la opción que eligió!
         print("Has seleccionado manzanas")
-        
+
     elif opcion == '2':
         print("Has seleccionado bananas")
 
